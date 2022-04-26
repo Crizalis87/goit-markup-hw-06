@@ -919,11 +919,8 @@ body {
 
 .icon-subscribe {
   display: block;
-  width: 24px;
-  height: 24px;
   fill: var(--footer-logo);
   margin-left: 10px;
-  outline: red;
 }
 
 /*--------------- Styles for page Portfolio.html ------------*/
