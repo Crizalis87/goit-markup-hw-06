@@ -437,7 +437,7 @@ body {
 
 .checkbox-icon {
   position: relative;
-  display: block;
+  display: flex;
   margin-right: 8px;
   width: 16px;
   height: 15px;
@@ -450,7 +450,7 @@ body {
 
 .icon-checkin {
   position: absolute;
-  top: 0;
+  top: -1px;
   left: 0;
 }
 
